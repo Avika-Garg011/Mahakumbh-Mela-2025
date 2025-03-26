@@ -6,11 +6,11 @@ The Mahakumbh Mela is a sacred Hindu pilgrimage and one of the world's largest r
 This project aims to analyse key data points of Mahakumbh Mela 2025 using Power BI. The dashboard provides insights into visitor trends, foreign tourist contributions, accommodation distribution, peak footfall hours, and waste management. It also highlights medical emergencies, security incidents, and social media engagement, helping organizers make data-driven decisions for better crowd management and resource allocation.
 
 ## 📂 About the Dataset
-This project uses a dummy dataset that simulates real-world trends of the Mahakumbh Mela. It includes:
-	• Footfall Data – Daily and hourly visitor count across different dates.
-	• Tourist Demographics – Age distribution and percentage of foreign visitors.
-	• Accommodation & Infrastructure – Tourist stays across different Ghats and available facilities.
-	• Event Operations – Waste management, medical emergencies, security incidents, and social media engagement trends.  
+This project uses a dummy dataset that simulates real-world trends of the Mahakumbh Mela. It includes:<br>
+• Footfall Data – Daily and hourly visitor count across different dates.<br>
+• Tourist Demographics – Age distribution and percentage of foreign visitors.<br>
+• Accommodation & Infrastructure – Tourist stays across different Ghats and available facilities.<br>
+• Event Operations – Waste management, medical emergencies, security incidents, and social media engagement trends.<br>
 
 ## 🔍 Recommended Analysis
 • How does the total footfall fluctuate over time?
