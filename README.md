@@ -52,7 +52,7 @@ This project uses a dummy dataset that simulates real-world trends of the Mahaku
 ## 🛠 Technologies Used
 ✔ **Power BI** – Data visualization and dashboard creation<br>
 ✔ **DAX (Data Analysis Expressions)** – Used for calculated measures<br>
-✔ **Excel/CSV** – Data storage and preprocessing<br>
+✔ **Power Query** – Data Transformation<br>
 
 ## 🔚 Conclusion
 The Mahakumbh Mela Power BI dashboard provides valuable insights to event organizers, helping them manage logistics, monitor visitor trends, and ensure better safety and waste management. By leveraging data analytics, we can improve planning and execution for such a large-scale gathering. Future enhancements could include real-time data integration and predictive analytics to enhance decision-making.
