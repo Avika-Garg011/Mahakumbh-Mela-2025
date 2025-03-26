@@ -38,7 +38,7 @@ This project uses a dummy dataset that simulates real-world trends of the Mahaku
 📊 **Tourists Accommodated:** 4K<br>
 📊 **Meals Served Daily:** 654K<br>
 📊 **Peak Hour Footfall:** 15M<br>
-📊 **Social Media Mentions: **5M<br>
+📊 **Social Media Mentions:** 5M<br>
 
 ## 🔥 Key Insights from the Dashboard
 📌 Visitor Trends: The event sees fluctuations in footfall, with peak days reaching up to 3M visitors.<br>
@@ -50,9 +50,9 @@ This project uses a dummy dataset that simulates real-world trends of the Mahaku
 📌 Social Media Engagement: The event is trending with 5M+ mentions, highlighting its digital presence.<br>
 
 ## 🛠 Technologies Used
-✔ **Power BI **– Data visualization and dashboard creation<br>
-✔ ** DAX (Data Analysis Expressions) **– Used for calculated measures<br>
-✔ **Excel/CSV ** – Data storage and preprocessing<br>
+✔ **Power BI** – Data visualization and dashboard creation<br>
+✔ **DAX (Data Analysis Expressions)** – Used for calculated measures<br>
+✔ **Excel/CSV** – Data storage and preprocessing<br>
 
 ## 🔚 Conclusion
 The Mahakumbh Mela Power BI dashboard provides valuable insights to event organizers, helping them manage logistics, monitor visitor trends, and ensure better safety and waste management. By leveraging data analytics, we can improve planning and execution for such a large-scale gathering. Future enhancements could include real-time data integration and predictive analytics to enhance decision-making.
